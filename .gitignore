@@ -1,0 +1,6 @@
+# 编译产物
+dist/
+build/
+
+# 依赖缓存
+node_modules/
